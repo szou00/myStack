@@ -114,6 +114,43 @@ torus
 6 -16 -20 5 88
 torus
 6 -12 -20 5 89
+#why is it not filled UP
+torus
+6 -8 -20 5 89
+torus
+6 -6 -20 5 89
+torus
+6 -4 -20 5 89
+torus
+6 0 -20 5 90
+torus
+6 8 -20 5 90
+torus
+6 12 -20 5 90
+torus
+6 16 -20 5 91
+torus
+6 20 -20 5 91
+torus
+6 24 -20 5 91
+torus
+6 28 -20 5 92
+torus
+6 32 -20 5 92
+torus
+6 36 -20 5 92
+torus
+6 40 -20 5 93
+torus
+6 44 -20 5 93
+torus
+6 48 -20 5 93
+torus
+6 52 -20 5 94
+torus
+6 54 -20 5 94
+torus
+6 56 -20 5 94
 #THE BUBBLES
 #LAYER 1
 default color
@@ -138,38 +175,6 @@ sphere
 60 -110 0 10
 #STRAW
 straw
-torus
-6 -4 -20 2 5
-torus
-6 0 -20 2 5
-torus
-6 4 -20 2 5
-torus
-6 8 -20 2 5
-torus
-6 12 -20 2 5
-torus
-6 16 -20 2 5
-torus
-6 20 -20 2 5
-torus
-6 24 -20 2 5
-torus
-6 28 -20 2 5
-torus
-6 32 -20 2 5
-torus
-6 36 -20 2 5
-torus
-6 40 -20 2 5
-torus
-6 44 -20 2 5
-torus
-6 48 -20 2 5
-torus
-6 52 -20 2 5
-torus
-6 56 -20 2 5
 torus
 6 60 -20 2 5
 torus
@@ -236,6 +241,39 @@ box
 -105 140 0 225 6 100
 box
 -105 140 0 225 2 100
+#EYES
+eyes
+sphere
+-30 20 0 15
+white
+sphere
+-25 25 0 3
+sphere
+-35 15 0 3
+eyes
+sphere
+40 20 0 15
+white
+sphere
+45 25 0 3
+sphere
+35 15 0 3
+#SMILE
+eyes
+sphere
+5 -20 0 3
+sphere
+8 -20 0 3
+sphere
+11 -19 0 3
+sphere
+14 -18 0 3
+sphere
+2 -20 0 3
+sphere
+-1 -19 0 3
+sphere
+-4 -18 0 3
 display
 save
 boba.png
